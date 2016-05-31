@@ -1,9 +1,12 @@
 package ru.aaromanov1985.javaexperiments.javaexperiments.collections;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Created by raan on 31.05.2016.
  */
-public class QuickIntListTest {
+public class ArrayListTest {
 
     public void test() {
         System.out.println("Результат add1000Test(): "+addTest(1000) + " мс");
@@ -17,7 +20,7 @@ public class QuickIntListTest {
         int measuring = 10;
 
         for (int i = 0; i < measuring; i++) {
-            IntList data = new QuickIntList();
+            List<Integer> data = new ArrayList<>();
             long start = System.currentTimeMillis();
 
             for (int k = 0; k < value; k++) {

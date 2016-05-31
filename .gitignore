@@ -1,0 +1,20 @@
+﻿*.class
+/target
+/nbproject
+/dist
+/build
+*.log
+*.war
+*.jar
+.idea
+.iml
+nb-configuration.xml
+/SpringMVC/simple1/target/
+/SpringMVC/simple1 - копия/target/
+/SpringMVC/simple2/target/
+/SpringMVC/viewresolver/target/
+/SpringMVC/rest1/target/
+/SpringMVC/angular1/target/
+/SpringMVC/simple3/target/
+/SpringMVC/simple3/nbproject/
+/fighting/target/

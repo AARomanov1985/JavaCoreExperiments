@@ -1,6 +1,5 @@
 package ru.aaromanov1985.javaexperiments.javaexperiments;
 
-import ru.aaromanov1985.javaexperiments.javaexperiments.collections.ArrayListTest;
 import ru.aaromanov1985.javaexperiments.javaexperiments.collections.QuickIntListTest;
 
 /**
@@ -13,7 +12,5 @@ public class App
     {
         QuickIntListTest test = new QuickIntListTest();
         test.test();
-        ArrayListTest testList = new ArrayListTest();
-        testList.test();
     }
 }

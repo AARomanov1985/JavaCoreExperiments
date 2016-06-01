@@ -37,7 +37,7 @@ public class QuickIntList implements IntList {
     }
 
     private void grow() {
-        int[] newData = Arrays.copyOf(data, size * 2);
+        int[] newData = Arrays.copyOf(data, data.length * 2);
         data = newData;
     }
 

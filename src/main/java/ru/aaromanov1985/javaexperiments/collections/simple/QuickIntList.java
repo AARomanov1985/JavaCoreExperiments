@@ -1,4 +1,4 @@
-package ru.aaromanov1985.javaexperiments.javaexperiments.collections;
+package ru.aaromanov1985.javaexperiments.collections.simple;
 
 import java.util.Arrays;
 

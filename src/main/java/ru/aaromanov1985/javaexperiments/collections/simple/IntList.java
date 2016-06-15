@@ -1,8 +1,5 @@
-package ru.aaromanov1985.javaexperiments.javaexperiments.collections;
+package ru.aaromanov1985.javaexperiments.collections.simple;
 
-/**
- * Created by raan on 31.05.2016.
- */
 public interface IntList {
 
     int size();

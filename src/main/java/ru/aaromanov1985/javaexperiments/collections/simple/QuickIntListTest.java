@@ -1,4 +1,4 @@
-package ru.aaromanov1985.javaexperiments.javaexperiments.collections;
+package ru.aaromanov1985.javaexperiments.collections.simple;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -42,7 +42,7 @@ public class QuickIntListTest {
             long stop = System.nanoTime();
             result += stop-start;
         }
-        System.out.println("ArrayList: "+result / measuring);
+        System.out.println("MutantArrayList: "+result / measuring);
 
     }
 

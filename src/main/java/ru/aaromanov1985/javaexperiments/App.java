@@ -1,6 +1,6 @@
-package ru.aaromanov1985.javaexperiments.javaexperiments;
+package ru.aaromanov1985.javaexperiments;
 
-import ru.aaromanov1985.javaexperiments.javaexperiments.collections.QuickIntListTest;
+import ru.aaromanov1985.javaexperiments.collections.simple.QuickIntListTest;
 
 /**
  * Hello world!
